@@ -2,6 +2,7 @@
 using Bogus.Extensions.Brazil;
 using StoneChallengeBillingApi.Application.DTOs.Billings;
 using StoneChallengeBillingApi.Domain.Models;
+using StoneChallengeBillingApi.Domain.ValueObjects;
 using StoneChallengeBillingApi.Infra.CrossCutting.Utils.Helpers;
 using StoneChallengeBillingApi.Infra.CrossCutting.Utils.Notifications;
 using StoneChallengeBillingApi.Infra.CrossCutting.Utils.Notifications.Enums;
@@ -14,11 +15,25 @@ public class BillingCollection : ICollectionFixture<BillingTestFixture> {}
 
 public class BillingTestFixture : IDisposable
 {
+    public Cpf GenerateValidCpf()
+    {
+        var isValid = false;
+        var cpf = new Cpf(string.Empty);
+        
+        while (!isValid)
+        {
+            cpf = new Cpf(new Faker().Person.Cpf());
+            isValid = cpf.IsValid;
+        }
+
+        return cpf;
+    }
+
     public Billing GenerateValidBilling()
         => Billing.Create(
             DateTimeHelpers.GetSouthAmericaDateTimeNow().Date,
             new decimal(new Random().Next(1000, 9999)),
-            new Faker().Person.Cpf());
+            GenerateValidCpf().Value.ToString());
 
     public IEnumerable<Billing> GenerateValidBillingList(int numberToGenerate)
     {
@@ -26,7 +41,7 @@ public class BillingTestFixture : IDisposable
             yield return Billing.Create(
                 DateTimeHelpers.GetSouthAmericaDateTimeNow().Date,
                 new decimal(new Random().Next(1000, 9999)),
-                new Faker().Person.Cpf());
+                GenerateValidCpf().Value.ToString());
     }
          
     
@@ -41,7 +56,7 @@ public class BillingTestFixture : IDisposable
         {
             DueDate = DateTimeHelpers.GetSouthAmericaDateTimeNow().Date,
             BillingAmount =  new decimal(new Random().Next(1000, 9999)),
-            Cpf = new Faker().Person.Cpf()
+            Cpf = GenerateValidCpf().Value.ToString()
         };
     
     public CreateBillingRequestDTO GenerateInvalidCreateRequestDto()
