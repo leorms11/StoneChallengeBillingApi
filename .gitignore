@@ -11,6 +11,7 @@ src/StoneChallenge.Persistence/app.db
 .vscode/
 
 # Rider
+.idea/*
 .idea/
 .idea/.idea.StoneTest/*
 .idea/.idea.StoneTest/
