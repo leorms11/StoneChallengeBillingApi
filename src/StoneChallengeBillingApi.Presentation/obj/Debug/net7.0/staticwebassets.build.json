@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KxqAdzjMqCWIuXQNeH5tPJogsIW28snPuHgW+KBXdFM=",
+  "Source": "StoneChallengeBillingApi.Presentation",
+  "BasePath": "_content/StoneChallengeBillingApi.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

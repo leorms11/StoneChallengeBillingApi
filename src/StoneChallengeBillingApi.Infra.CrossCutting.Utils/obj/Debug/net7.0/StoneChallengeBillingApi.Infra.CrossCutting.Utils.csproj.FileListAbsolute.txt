@@ -1,0 +1,12 @@
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\bin\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.deps.json
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\bin\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.dll
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\bin\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.pdb
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\obj\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.csproj.AssemblyReference.cache
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\obj\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\obj\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.AssemblyInfoInputs.cache
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\obj\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.AssemblyInfo.cs
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\obj\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.csproj.CoreCompileInputs.cache
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\obj\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.dll
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\obj\Debug\net7.0\refint\StoneChallengeBillingApi.Infra.CrossCutting.Utils.dll
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\obj\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.pdb
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Infra.CrossCutting.Utils\obj\Debug\net7.0\ref\StoneChallengeBillingApi.Infra.CrossCutting.Utils.dll

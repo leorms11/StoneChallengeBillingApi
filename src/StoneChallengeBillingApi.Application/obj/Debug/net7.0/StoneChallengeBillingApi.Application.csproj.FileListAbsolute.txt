@@ -1,0 +1,17 @@
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\bin\Debug\net7.0\StoneChallengeBillingApi.Application.deps.json
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\bin\Debug\net7.0\StoneChallengeBillingApi.Application.dll
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\bin\Debug\net7.0\StoneChallengeBillingApi.Application.pdb
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\bin\Debug\net7.0\StoneChallengeBillingApi.Domain.dll
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\bin\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.dll
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\bin\Debug\net7.0\StoneChallengeBillingApi.Domain.pdb
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\bin\Debug\net7.0\StoneChallengeBillingApi.Infra.CrossCutting.Utils.pdb
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\obj\Debug\net7.0\StoneChallengeBillingApi.Application.csproj.AssemblyReference.cache
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\obj\Debug\net7.0\StoneChallengeBillingApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\obj\Debug\net7.0\StoneChallengeBillingApi.Application.AssemblyInfoInputs.cache
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\obj\Debug\net7.0\StoneChallengeBillingApi.Application.AssemblyInfo.cs
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\obj\Debug\net7.0\StoneChallengeBillingApi.Application.csproj.CoreCompileInputs.cache
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\obj\Debug\net7.0\StoneChallengeBillingApi.Application.csproj.CopyComplete
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\obj\Debug\net7.0\StoneChallengeBillingApi.Application.dll
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\obj\Debug\net7.0\refint\StoneChallengeBillingApi.Application.dll
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\obj\Debug\net7.0\StoneChallengeBillingApi.Application.pdb
+C:\Workspace\StoneChallenge\StoneChallengeBillingApi\src\StoneChallengeBillingApi.Application\obj\Debug\net7.0\ref\StoneChallengeBillingApi.Application.dll

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\StoneChallengeBillingApi.Domain\StoneChallengeBillingApi.Domain.csproj" />
+      <ProjectReference Include="..\StoneChallengeBillingApi.Infra.CrossCutting.Utils\StoneChallengeBillingApi.Infra.CrossCutting.Utils.csproj" />
+    </ItemGroup>
+
+</Project>

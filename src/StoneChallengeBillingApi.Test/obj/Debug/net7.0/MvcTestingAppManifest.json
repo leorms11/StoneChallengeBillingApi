@@ -1,0 +1,8 @@
+{
+  "StoneChallengeBillingApi.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\StoneChallenge\\StoneChallengeBillingApi\\src\\StoneChallengeBillingApi.Application",
+  "StoneChallengeBillingApi.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\StoneChallenge\\StoneChallengeBillingApi\\src\\StoneChallengeBillingApi.Domain",
+  "StoneChallengeBillingApi.Infra.CrossCutting.IoC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\StoneChallenge\\StoneChallengeBillingApi\\src\\StoneChallengeBillingApi.Infra.CrossCutting.IoC",
+  "StoneChallengeBillingApi.Infra.CrossCutting.Utils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\StoneChallenge\\StoneChallengeBillingApi\\src\\StoneChallengeBillingApi.Infra.CrossCutting.Utils",
+  "StoneChallengeBillingApi.Infra.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\StoneChallenge\\StoneChallengeBillingApi\\src\\StoneChallengeBillingApi.Infra.Persistence",
+  "StoneChallengeBillingApi.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\StoneChallenge\\StoneChallengeBillingApi\\src\\StoneChallengeBillingApi.Presentation"
+}

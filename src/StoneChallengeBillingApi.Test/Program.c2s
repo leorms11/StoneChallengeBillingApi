@@ -1,0 +1,11 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.Logging;
+using StoneChallengeBillingApi.Presentation;
+using StoneChallengeBillingApi.Presentation.Extensions;
+
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Logging.ClearProviders().AddConsole();
+builder.UseStartup<Startup>(true)
+    .Run();
